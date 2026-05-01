@@ -22,4 +22,4 @@ Sistema web seguro para gestión de usuarios con autenticación, perfil privado 
 
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/auth-system.git
+   git clone https://github.com/jordyjavier099/FOROPHP
